@@ -1,0 +1,1 @@
+A HTML, CSS, and JavaScript, along with OpenWeatherMap, FlagAPI, and FontAwesome, weather forecast project.
